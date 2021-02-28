@@ -10,7 +10,7 @@
 
 const darknessUrl = "https://darknessvote.com/darkness.php";
 const likrrUrl = "https://gentle-fortress-15688.herokuapp.com/missions";
-const minute = 1;
+const minute = 10;
 
 function vote(article) {
   $.ajax({
