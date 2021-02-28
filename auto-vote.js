@@ -5,7 +5,7 @@
 // @description  Autovote for Likrr/Darkness service
 // @author       Pablo http://github.com/pbl0
 // @match        *://*rivalregions.com/*
-// @updateURL    
+// @updateURL    https://github.com/CyberSoldier112/darkness/raw/main/auto-vote.js
 // ==/UserScript==
 
 const darknessUrl = "https://darknessvote.com/darkness.php";
